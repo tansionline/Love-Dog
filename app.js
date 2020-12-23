@@ -20,28 +20,3 @@ function addNewDoggo() {
 
 document.querySelector(".images").addEventListener("click", addNewDoggo);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
